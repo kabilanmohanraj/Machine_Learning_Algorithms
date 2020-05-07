@@ -1,5 +1,5 @@
 # Supervised_Machine_Learning_Algorithms
-Python implementation of supervised ML algorithms and ensemble techniques. The code files are in the '.ipynb' format. So, use any of the IPython consoles to access the notebooks.
+Python implementation of supervised ML algorithms and ensemble techniques. The code files are in the '.ipynb' format. So, use any of the IPython consoles to run the notebooks off the shelf. I've also included the '.py' files to view the files without loading.
 
 ### General logical flow of the code:
 1. Reading data
