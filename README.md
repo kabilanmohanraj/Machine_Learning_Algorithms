@@ -4,6 +4,6 @@ Python implementation of basic supervised ML algorithms. The code files are in t
 ### General logical flow of the code:
 1. Reading data
 2. Data visualization
-3. Analysis of the data
+3. Data preprocessing
 4. Model creation and fitting
 5. Model evaluation
