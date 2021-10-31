@@ -5,7 +5,7 @@ The datasets used in the notebooks can be found here:</br>
 UCI ML Repository : https://archive.ics.uci.edu/ml/index.php</br>
 Kaggle : https://www.kaggle.com/
 
-### General logical flow of the code:
+### General work flow implemented in the code:
 1. Reading data
 2. Data visualization
 3. Data preprocessing
