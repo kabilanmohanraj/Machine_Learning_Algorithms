@@ -1,4 +1,4 @@
-# Supervised_Machine_Learning_Algorithms
+# Collection of Supervised Machine Learning Algorithms
 Python implementation of supervised ML algorithms and ensemble techniques. The code files are in the '.ipynb' format. So, use any of the IPython consoles to run the notebooks off the shelf.
 
 The datasets used in the notebooks can be found here:</br>
